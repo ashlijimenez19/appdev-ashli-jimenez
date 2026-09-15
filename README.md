@@ -1,2 +1,3 @@
-# appdev-ashli-jimenez
-My First GitHub Repository For App Dev
+Jimenez, Ashli U.
+BSIT - 3B
+I want to learn how to build an App
